@@ -17,9 +17,9 @@ Key Insight: Database Injection is the dominant risk, accounting for over 89% of
 I conducted a financial evaluation of proposed security controls to determine their effectiveness and Return on Investment (ROI).
 | Control | Initial Cost ($) | Risk Reduction ($) | ROI (%) | Payback Period |
 | :--- | :--- | :--- | :--- | :--- |
-| **WAF** | 150,000 | 23,437,500 | **15,608%** | [cite_start]**2 Days** [cite: 60] |
-| **MFA** | 200,000 | 2,850,000 | **1,410%** | [cite_start]**25 Days** [cite: 60] |
-| **API Gateway** | 350,000 | 675,000 | **178.6%** | [cite_start]**7 Months** [cite: 60] |
+| **WAF** | 150,000 | 23,437,500 | **15,608%** |2 Days
+| **MFA** | 200,000 | 2,850,000 | **1,410%** |25 Days
+| **API Gateway** | 350,000 | 675,000 | **178.6%** |7 Months
 
 **Primary Recommendation:** The Web Application Firewall (WAF) delivers the highest ROI and is the top priority for immediate risk reduction.
 
