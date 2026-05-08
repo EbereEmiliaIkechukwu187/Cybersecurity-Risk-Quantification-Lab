@@ -36,11 +36,9 @@ I conducted a financial evaluation of proposed security controls to determine th
 ---
 
 ## Strategic Implementation Roadmap
-The implementation is divided into three phases to ensure immediate protection and long-term resilience.
-
-1. **Immediate (0-30 Days):** Deploy Web Application Firewall (WAF) to eliminate the highest financial risk quickly.
-2. **Short-Term (30-90 Days):** Implement Multi-Factor Authentication (MFA) to prevent account takeover and fraud.
-3. **Long-Term (3-12 Months):** Deploy API Security Gateway to strengthen API-level security.
+* **Immediate (0-30 Days):** Deploy Web Application Firewall (WAF) to eliminate the highest financial risk quickly.
+* **Short-Term (30-90 Days):** Implement Multi-Factor Authentication (MFA) to prevent account takeover and fraud.
+* **Long-Term (3-12 Months):** Deploy API Security Gateway to strengthen API-level security.
 
 ## Business Value & Conclusion
 Implementing these controls will:
