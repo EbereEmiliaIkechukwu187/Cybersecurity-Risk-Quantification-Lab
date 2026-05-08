@@ -46,5 +46,5 @@ Implementing these controls will:
 * Improve the organization’s regulatory compliance posture.
 * Strengthen customer trust and brand reputation.
 
-## Documentation
-[Download Full Lab Report (DOCX)](https://github.com/EbereEmiliaIkechukwu187/Cybersecurity-Risk-Quantification-Lab/raw/main/docs/Advanced_Cybersecurity_Risk_Quantification_Ebere_Emilia_Ikechukwu.docx)
+### 📂 Documentation
+* [📄 View Full Lab Report (PDF)](./docs/Advanced_Cybersecurity_Risk_Quantification_Ebere_Emilia_Ikechukwu.pdf)
