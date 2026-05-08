@@ -47,4 +47,4 @@ Implementing these controls will:
 * Strengthen customer trust and brand reputation.
 
 ### 📂 Documentation
-* [📥 Download Full Lab Report (PDF)](https://github.com/EbereEmiliaIkechukwu187/Cybersecurity-Risk-Quantification-Lab/raw/main/docs/Advanced_Cybersecurity_Risk_Quantification_Ebere_Emilia_Ikechukwu.pdf)
+* [📄 View Full Lab Report (PDF)](./docs/Advanced_Cybersecurity_Risk_Quantification_Ebere_Emilia_Ikechukwu.pdf)
