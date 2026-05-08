@@ -8,9 +8,9 @@ This project involved a comprehensive security assessment of the SecureMobile pl
 Vulnerability Breakdown
 | Vulnerability | SLE ($) | ARO (%) | ALE ($) | Priority |
 | :--- | :--- | :--- | :--- | :--- |
-| **Database Injection** | 125,000,000 | 25% | **31,250,000** | [cite_start]**Critical** [cite: 24, 30] |
-| **Session Hijacking** | 7,500,000 | 40% | **3,000,000** | [cite_start]**High** [cite: 28, 30] |
-| **API Auth Bypass** | 5,000,000 | 15% | **750,000** | [cite_start]**Medium** [cite: 20, 30] |
+| **Database Injection** | 125,000,000 | 25% | **31,250,000** |Critical
+| **Session Hijacking** | 7,500,000 | 40% | **3,000,000** |High
+| **API Auth Bypass** | 5,000,000 | 15% | **750,000** |Medium
 Key Insight: Database Injection is the dominant risk, accounting for over 89% of the total risk distribution.
 
 **Phase 2:** Control Evaluation & Cost-Benefit Analysis
